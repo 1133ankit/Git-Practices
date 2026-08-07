@@ -12,4 +12,4 @@ INSERT INTO SalesData (ProductName, Quantity, Price, SaleDate)
 VALUES
 ('Laptop', 5, 75000.00, '2026-08-01'),
 ('Smartphone', 10, 25000.00, '2026-08-02'),
-('Headphones', 15
+('Headphones', 15,1000.00,"2026-08-09")
