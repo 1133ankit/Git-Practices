@@ -1,5 +1,5 @@
 -- Step 1: Create the sales table
-CREATE TABLE axaltaData (
+CREATE TABLE ericssonData (
     SaleID INT PRIMARY KEY AUTO_INCREMENT,
     ProductName VARCHAR(100),
     Quantity INT,
