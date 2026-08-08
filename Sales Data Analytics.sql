@@ -1,5 +1,5 @@
 -- Step 1: Create the sales table
-CREATE TABLE SlData (
+CREATE TABLE axaltaData (
     SaleID INT PRIMARY KEY AUTO_INCREMENT,
     ProductName VARCHAR(100),
     Quantity INT,
