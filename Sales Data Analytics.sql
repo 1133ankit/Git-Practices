@@ -1,6 +1,6 @@
 -- Step 1: Create the sales table
 CREATE TABLE SalesData (
-    SaleID INT PRIMARY KEY AUTO_INCREMENT,
+    Axa INT PRIMARY KEY AUTO_INCREMENT,
     ProductName VARCHAR(100),
     Quantity INT,
     Price DECIMAL(10,2),
